@@ -4,7 +4,7 @@
 
 /*header design*/
 header{
-   background:linear-gradient(to right,rgba(0,0,0,0.8),rgba(0,0,0,0.9)),url(Assets/bg_header.jpg) no-repeat center center/cover;
+   background:linear-gradient(to right,rgba(0,0,0,0.8),rgba(0,0,0,0.9)),url(bg_header.jpg) no-repeat center center/cover;
    height:160vh;
    max-width:100%;
    display:flex;
